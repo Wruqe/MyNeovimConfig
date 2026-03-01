@@ -25,8 +25,6 @@ use({
     run = ':TSUpdate'
   })
 
-
-use( 'nvim-treesitter/playground')
 use {
     "theprimeagen/harpoon",
     branch = "harpoon2",
