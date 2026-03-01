@@ -1,1 +1,1 @@
-require("wruqe")
+require("wruqe.packer")

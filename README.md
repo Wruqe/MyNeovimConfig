@@ -1,6 +1,11 @@
-# Neovim Configuration
+Neovim Configuration
 
 A modern Neovim configuration with LSP support, fuzzy finding, and productivity-focused keybindings.
+
+## Install
+- you will need to make clone this down to a config folder, which is hidden on some os's such as ubuntu,
+make sure you run ls -a to show hidden folders
+- after you add it into the config folder run `nvim` in your terminal to open the neovim then `:PackerSync` command. This should download everything you need. 
 
 ## 📁 File Structure
 
